@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ignore</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#pragma clang diagnostic push
+#pragma clang diagnostic ignored &lt;#ignore somthing#&gt;
+&lt;#wanna be ignore code here#&gt;
+#pragma clang diagnostic pop</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>844EABC5-EE57-404D-9CDC-16F247CB1E7D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>忽略某种类型的警告</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>忽略某种类型的警告</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
